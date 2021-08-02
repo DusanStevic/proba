@@ -1,5 +1,6 @@
 # proba
 proba za CI
 
-[a relative link](other_file.md)
+[microservices instruction](mikroservisi.md)
+
 [docker instructions](docker.md)
